@@ -9,3 +9,10 @@
   - one away
   - palindrome permutation
   - rotate matrix
+  - string compression
+  - urlify
+  - zero matrix
+- linked list
+  - delete middle node
+  - intersection
+  - loop detection
